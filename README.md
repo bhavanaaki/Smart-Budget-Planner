@@ -1,5 +1,7 @@
 #SMART BUDGET PLANNER 
+
 Report link: https://drive.google.com/drive/folders/1JTahl1ovUVltD47MCl6KS-qWFYklmU-Q
+
 Smart Budget Planner is a web application that helps users select the best items within a fixed budget. It uses the **0/1 Knapsack algorithm (Dynamic Programming)** to maximize total value without exceeding the budget.
 
 #Features
